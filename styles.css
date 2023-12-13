@@ -1,0 +1,12 @@
+.quarto-title-block .quarto-title-banner {
+  background-image: url(logo: "C:/Users/julia/Hoffmann Dropbox/Julian Hoffmann/0. Julian Studio/1. Julian Studio Projects/2023.08 - UCL-GLA London Data Store/London Data Store Research Report/images/London Datastore logo.png");
+  background-size: 300px;
+  background-position: left;
+  #background-repeat: no-repeat;
+  padding-left: 10px;
+  background-origin: content-box;
+}
+
+p {
+  text-align: justify;
+}
